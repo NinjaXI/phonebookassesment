@@ -1,0 +1,2 @@
+INSERT INTO phonebook (name, default_book) VALUES ('Base', 1);
+INSERT INTO entry (name, number, phonebook_id) VALUES ('Vincent', '0735437887', 1), ('Amanda', '0839995678', 1), ('Luke', '0848754821', 1);
